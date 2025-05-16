@@ -24,9 +24,9 @@ You’ll need:
 
 | Text                             | Country     |
 |----------------------------------|-------------|
-| "Bonjour tout le monde!"         | 🇫🇷 France   |
-| "What’s up y’all?"               | 🇺🇸 USA      |
-| "G’day mate, how’s it going?"    | 🇦🇺 Australia|
+| "Voy al parque a comer"          | Spain       |
+| "Ayer me tomé un mate"           | Argentina   |
+| "me gustan los pinguinos weon"   | Chile       |
 
 ---
 
