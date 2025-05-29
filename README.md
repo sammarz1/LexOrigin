@@ -10,6 +10,8 @@
 |----------------|---------------------------------------------|
 | `tokenizer.py` | 🧹 Functions to clean and tokenize text      |
 | `model.py`     | 🤖 Script to train and evaluate the model    |
+| `scraper.ipynb`|    Script to scrape subreddits               |
+| `complete_clean_data`|    Compressed file with sample data              |
 
 ---
 
